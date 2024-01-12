@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'backend-fecaf'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3BBA16F12A448D9A062D6329E2CC55F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02CEA8097CAC4AF79FA6CADC2D5675FF }}
           package: .
