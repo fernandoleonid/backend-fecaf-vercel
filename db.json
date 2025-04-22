@@ -4,16 +4,16 @@
       "id": 1,
       "nome": "Ana Oliveira Dias",
       "celular": "11 9 7171-6464",
-      "foto": "../img/ana-oliveira-dias.png",
+      "foto": "https://img.freepik.com/psd-gratuitas/renderizacao-3d-do-estilo-de-cabelo-para-o-design-do-avatar_23-2151869121.jpg",
       "email": "ana@gmail.com",
       "endereco": "Av. São Joaquim, 234",
       "cidade": "Sorocaba"
     },
     {
       "id": 2,
-      "nome": "Fernando Leonid",
+      "nome": "Igor da Silva",
       "celular": "11 9 1112-3333",
-      "foto": "../img/logo.png",
+      "foto": "https://img.freepik.com/psd-gratuitas/ilustracao-3d-de-avatar-ou-perfil-humano_23-2150671122.jpg",
       "email": "fernando@gmail.com",
       "endereco": "Rua dos padres, 555",
       "cidade": "Osasco"
